@@ -1,6 +1,6 @@
-### Hi there 👋
-Hi 👋,<br/>
-my name is Denys Herasymuk, and I am currently a computer science student at Ukrainian Catholic University and 
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hi there &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+
+My name is Denys Herasymuk, and I am currently a computer science student at Ukrainian Catholic University and 
 passionate about everything that is connected with my area of study. I like Maths, Physics and tech disciplines from my
 school years, so it became good basement for my career in Computer Science at the university. However, my projects describe me
 better than any words, so check them  to see my level of programming skills :=) 
@@ -14,18 +14,15 @@ But my top three languages are Python, Java and C.
 
 ---
 ### Programming Languages statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denysgerasymuk799)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denysgerasymuk799&hide=assembly,html,pawn,css&langs_count=8&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 📢 Find me elsewhere
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100017156055851">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" style="vertical-align:top; width: 10%; height: 10%; margin:4px">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" width = "10%" height = "10%" style="vertical-align:top; margin:4px">
   </a>
-  
-  <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
-
   
   <a href="https://www.linkedin.com/in/denys-herasymuk-a26427159/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
@@ -93,5 +90,3 @@ style="vertical-align:top; margin:4px">
 </p>
 
 ---
-
--->
