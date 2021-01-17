@@ -2,10 +2,10 @@
 
 My name is Denys Herasymuk, and I am currently a computer science student at Ukrainian Catholic University and 
 passionate about everything that is connected with my area of study. I like Maths, Physics and tech disciplines from my
-school years, so it became good basement for my career in Computer Science at the university. However, my projects describe me
-better than any words, so check them  to see my level of programming skills :=) 
+school years, so they became good basement for my career in Computer Science at the university. However, my projects describe me
+better than any words, so check them to see my level of programming skills :=) 
 
-But my top three languages are Python, Java and C.
+But my top three beloved languages are Python, Java and C.
 
 ---
 
