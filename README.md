@@ -6,7 +6,7 @@ school years, therefore I have been achieving top places in olympiads in my regi
 Also they became good basement for my career in Computer Science at the university. However, my projects describe me
 better than any words, so check them to see my level of programming skills :=) 
 
-But my top three beloved languages are Python, Java and C.
+But my top three beloved languages are Python, Java and C++.
 
 ---
 
