@@ -20,11 +20,7 @@ But my top three beloved languages are Python, Java and C++.
 ---
 
 ### 📢 Find me elsewhere
-<p align="center">
-  <a href="https://www.facebook.com/profile.php?id=100017156055851">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" alt="Facebook" width = "10%" height = "10%" style="vertical-align:top; margin:4px">
-  </a>
-  
+<p align="center">  
   <a href="https://www.linkedin.com/in/denys-herasymuk-a26427159/">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/MikeCodesDotNET/a8abbf37441f3253f74ea255a47f289208d7568c/Resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
@@ -34,14 +30,6 @@ But my top three beloved languages are Python, Java and C++.
   </a>
 </p>
 
-
----
-
-###  🌱 I’m currently learning ...
-Now I want to get deeper knowledge in such areas:
-* ML and AI
-* Data Science and Data Analytics
-* C++
 
 ---
 
